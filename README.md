@@ -14,13 +14,13 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 - Diagrama de contexto
 - Vídeo com apresentação
 
-:memo: Abrir [Projeto Integrado DOCX](./etapa-01/projeto-integrado-aisoftware-tracker.docx)
+:memo: [Projeto Integrado DOCX](./etapa-01/projeto-integrado-aisoftware-tracker.docx)
 
-:page_facing_up: Abrir [Projeto Integrado PDF](./etapa-01/projeto-integrado-aisoftware-tracker.pdf)
+:page_facing_up: [Projeto Integrado PDF](./etapa-01/projeto-integrado-aisoftware-tracker.pdf)
 
-[![diagrama de contexto](./etapa-01/icons/diagrama-contexto.png) Diagrama de contexto](#)
+[![diagrama de contexto](./etapa-01/img/diagrama-contexto.png) Diagrama de contexto](./etapa-01/diagrama-contexto.drawio)
 
-[![Assistir vídeo](./etapa-01/icons/youtube.png) Vídeo com apresentação](#)
+[![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação](#)
 
 Diagrama de Contexto
 
@@ -43,4 +43,4 @@ Diagrama de Contexto
 - Conclusão
 - Vídeo de apresentação final
 
-[![Assistir vídeo](./etapa-01/icons/youtube.png) Vídeo de apresentação final](#)
+[![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo de apresentação final](#)
