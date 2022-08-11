@@ -22,7 +22,11 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 
 [![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação](#)
 
-Diagrama de Contexto
+### Referencias
+- https://www.gov.br/infraestrutura/pt-br/assuntos/transito/senatran/sobre-a-secretaria-nacional-de-transito-senatran
+- https://www.gov.br/infraestrutura/pt-br/assuntos/transito/senatran
+- https://cidades.ibge.gov.br/brasil/pesquisa/22/28120
+- https://frotas.localiza.com/blog/frota-de-veiculo
 
 
 ## **Etapa 2** [Módulo B - Data de Entrega B4 - 15/10/2022](https://pucminas.instructure.com/courses/64585/assignments/505764) `*pendente`
