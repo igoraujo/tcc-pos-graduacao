@@ -25,7 +25,7 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 Diagrama de Contexto
 
 
-## **Etapa 2** [Módulo B - Data de Entrega B4 - 15/10/2022](https://pucminas.instructure.com/courses/64585/assignments/505764)
+## **Etapa 2** [Módulo B - Data de Entrega B4 - 15/10/2022](https://pucminas.instructure.com/courses/64585/assignments/505764) `*pendente`
 
 - Diagrama de container
 - Diagrama de componentes
@@ -33,7 +33,7 @@ Diagrama de Contexto
 - Código da aplicação
 
 
-## **Etapa 3** [Módulo C - Data de Entrega C4 - 15/12/2022](https://pucminas.instructure.com/courses/64585/assignments/505766)
+## **Etapa 3** [Módulo C - Data de Entrega C4 - 15/12/2022](https://pucminas.instructure.com/courses/64585/assignments/505766) `*pendente`
 
 - Análise das abordagens arquiteturais
 - Cenários
