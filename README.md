@@ -18,7 +18,9 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 
 :page_facing_up: [Projeto Integrado PDF](./etapa-01/projeto-integrado-aisoftware-tracker.pdf)
 
-[![diagrama de contexto](./etapa-01/img/diagrama-contexto.png) Diagrama de contexto](./etapa-01/diagrama-contexto.drawio)
+:fireworks: [Diagrama de contexto](./etapa-01/img/diagrama-contexto.drawio.png)
+
+[![diagrama de contexto](./etapa-01/img/diagrama-contexto.png) Diagrama de contexto drawio](./etapa-01/diagrama-contexto.drawio)
 
 [![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação](#)
 
