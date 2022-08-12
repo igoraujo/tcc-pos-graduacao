@@ -22,11 +22,16 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 
 [![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação](#)
 
-### Referencias
+### Referencias Pesquisa
 - https://www.gov.br/infraestrutura/pt-br/assuntos/transito/senatran/sobre-a-secretaria-nacional-de-transito-senatran
 - https://www.gov.br/infraestrutura/pt-br/assuntos/transito/senatran
 - https://cidades.ibge.gov.br/brasil/pesquisa/22/28120
 - https://frotas.localiza.com/blog/frota-de-veiculo
+
+### Referencias Utilizadas
+- https://frotas.localiza.com/blog/frota-de-veiculo
+- https://www.mobilize.org.br/noticias/11808/frota-brasileira-de-carros-cresceu-77-em-dez-anos.html
+- https://portal.unisepe.com.br/blog-unisepe/o-transporte-rodoviario-movimentando-o-brasil/
 
 
 ## **Etapa 2** [Módulo B - Data de Entrega B4 - 15/10/2022](https://pucminas.instructure.com/courses/64585/assignments/505764) `*pendente`
