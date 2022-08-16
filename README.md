@@ -4,7 +4,7 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 
 ## **Etapa 1** [Módulo A - Data de Entrega A4 - 15/08/2022](https://pucminas.instructure.com/courses/64585/assignments/505763)
 
-> Todos os aquivos referentes a esta etapa estao no diretorio [etapa-01](./etapa-01/)
+> Todos os aquivos referentes a esta etapa estao no diretorio [etapa-01/](./etapa-01/)
 
 - Apresentação adequada do texto :memo: [DOCX](./etapa-01/projeto-integrado-aisoftware-tracker.docx) | :page_facing_up: [PDF](./etapa-01/projeto-integrado-aisoftware-tracker.pdf)
 - Contextualização e problema :memo: [DOCX](./etapa-01/projeto-integrado-aisoftware-tracker.docx) | :page_facing_up: [PDF](./etapa-01/projeto-integrado-aisoftware-tracker.pdf)
