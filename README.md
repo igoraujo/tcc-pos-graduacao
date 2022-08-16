@@ -13,6 +13,7 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 - [Mecanismos arquiteturais](#mecanismos-arquiteturais)
 - [Diagrama de contexto](#diagrama-contexto)
 - [Vídeo com apresentação](#video-etapa-01)
+- Apresentação [PPTX](./projeto-integrado-aisoftware-tracker.pptx)
 
 <span id="restricoes-arquiteturais"></span>
 ### Restrições Arquiteturais
@@ -73,7 +74,9 @@ Deploy | Pipeline | Heroku / Github
 
 <span id="video-etapa-01"></span>
 
-[![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação](#)
+### Vídeo com apresentação
+
+[![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação](https://youtu.be/Kt1YkLTPLBg)
 
 
 ### Referências
