@@ -13,7 +13,7 @@ O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arq
 - [Mecanismos arquiteturais](#mecanismos-arquiteturais)
 - [Diagrama de contexto](#diagrama-contexto)
 - [Vídeo com apresentação](#video-etapa-01)
-- Apresentação [PPTX](./projeto-integrado-aisoftware-tracker.pptx)
+- Apresentação [PPTX](./etapa-01/projeto-integrado-aisoftware-tracker.pptx)
 
 <span id="restricoes-arquiteturais"></span>
 ### Restrições Arquiteturais
