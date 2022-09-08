@@ -108,7 +108,7 @@ Deploy | Pipeline | Heroku / Github
 
 - Diagrama de container
 - Diagrama de componentes
-- [Wireframe de telas](https://miro.com/app/board/uXjVPZTtWh0=/?share_link_id=420854809266)
+- [Wireframe de telas](https://miro.com/app/board/uXjVPeGQ-7Y=/?share_link_id=352327279950)
 - Código da aplicação
 
 
