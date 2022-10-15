@@ -2,6 +2,12 @@
 
 O objetivo deste projeto é apresentar o projeto de conclusão do curso de **Arquitetura de Software Distribuído**.
 
+- [Etapa 01](#etapa-01)
+- [Etapa 02](#etapa-02)
+- [Etapa 03](#etapa-03) `*pendente`
+
+<span id="etapa-01"></span>
+
 ## **Etapa 1** [Módulo A - Data de Entrega A4 - 15/08/2022](https://pucminas.instructure.com/courses/64585/assignments/505763)
 
 > Todos os aquivos referentes a esta etapa estao no diretorio [etapa-01/](./etapa-01/)
@@ -102,15 +108,48 @@ Deploy | Pipeline | Heroku / Github
 > Disponível em: https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-Senatran/frota-de-veiculos-2021. <br/>
 > Acesso em: 10 de agosto de 2022.
 
+<span id="etapa-02"></span>
 
+## **Etapa 2** [Módulo B - Data de Entrega B4 - 15/10/2022](https://pucminas.instructure.com/courses/64585/assignments/505764)
 
-## **Etapa 2** [Módulo B - Data de Entrega B4 - 15/10/2022](https://pucminas.instructure.com/courses/64585/assignments/505764) `*pendente`
+> Todos os aquivos referentes a esta etapa estao no diretorio [etapa-02/](./etapa-02/)
 
-- Diagrama de container
-- Diagrama de componentes
+- [Diagrama de container](#diagrama-container)
+- [Diagrama de componentes](#diagrama-componentes)
+- [Wireframe de telas](#wireframe-telas)
+- [Código da aplicação](#codigo-aplicacao)
+- Documentação do Projeto :memo: [DOCX](./etapa-02/projeto-integrado-aisoftware-tracker.docx) | :page_facing_up: [PDF](./etapa-02/projeto-integrado-aisoftware-tracker.pdf)
+
+<span id="diagrama-container"></span>
+ 
+### Diagrama de container
+[![Diagrama de container](./etapa-02/img/diagramas-container.drawio.png)](./etapa-02/img/diagramas-container.drawio.png)
+
+[![Diagrama de container](./etapa-01/img/diagrama-contexto.png) Diagrama de container drawio](./etapa-02/diagramas.drawio)
+
+<span id="diagrama-componentes"></span>
+
+### Diagrama de componentes
+[![Diagrama de componentes](./etapa-02/img/diagramas-componentes.drawio.png)](./etapa-02/img/diagramas-componentes.drawio.png)
+
+[![Diagrama de componentes](./etapa-01/img/diagrama-contexto.png) Diagrama de componentes drawio](./etapa-02/diagramas.drawio)
+
+<span id="wireframe-telas"></span>
+
+### Wireframe de telas
+
 - [Wireframe de telas](https://miro.com/app/board/uXjVPeGQ-7Y=/?share_link_id=352327279950)
-- Código da aplicação
 
+<span id="codigo-aplicacao"></span> 
+
+### Código da aplicação
+
+- [POC Aisoftware.Tracker.Admin](https://github.com/igoraujo/aisoftware-tracker-admin)
+- [Publicação](https://aisoftware-tracker-admin.herokuapp.com/)
+- [UML do Banco de Dados](./etapa-02/img/database-reports-uml.png)
+- [Script do Banco de Dados](./etapa-02/report.sql)
+
+<span id="etapa-03"></span>
 
 ## **Etapa 3** [Módulo C - Data de Entrega C4 - 15/12/2022](https://pucminas.instructure.com/courses/64585/assignments/505766) `*pendente`
 
