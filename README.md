@@ -143,7 +143,7 @@ Deploy | Pipeline | Heroku / Github
 <span id="codigo-aplicacao"></span> 
 
 ### Código da aplicação
-
+[![Código da aplicação](./etapa-02/img/diagramas-codigo-aplicacao.drawio.png)](./etapa-02/img/diagramas-codigo-aplicacao.drawio.png)
 - [POC Aisoftware.Tracker.Admin](https://github.com/igoraujo/aisoftware-tracker-admin)
 - [Publicação](https://aisoftware-tracker-admin.herokuapp.com/)
 - [UML do Banco de Dados](./etapa-02/img/database-reports-uml.png)
