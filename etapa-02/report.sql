@@ -16,11 +16,11 @@ CREATE TABLE "report"."routes" (
   "address" varchar,
   "accuracy" decimal,
   "ignition" boolean,
-  "status" long,
+  "status" int,
   "distance" decimal,
   "totalDistance" decimal,
   "motion" boolean,
-  "hours" long,
+  "hours" int,
   "users_id" int
 );
 
@@ -43,7 +43,7 @@ CREATE TABLE "report"."summary" (
   "spentFuel" decimal,
   "startOdometer" decimal,
   "endOdometer" decimal,
-  "engineHours" long,
+  "engineHours" int,
   "users_id" int
 );
 
