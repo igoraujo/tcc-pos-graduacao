@@ -84,7 +84,7 @@ Deploy | Pipeline | Heroku / Github
 
 ### Vídeo com apresentação
 
-[![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação](https://youtu.be/Kt1YkLTPLBg)
+[![Assistir vídeo](./etapa-01/img/youtube.png) Vídeo com apresentação da Etapa 01](https://youtu.be/Kt1YkLTPLBg)
 
 
 ### Referências
