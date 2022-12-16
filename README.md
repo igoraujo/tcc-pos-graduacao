@@ -162,6 +162,7 @@ Deploy | Pipeline | Heroku / Github
 - [Avaliação crítica dos resultados](#avaliacao-critica-resultados)
 - [Conclusão](#conclusao)
 - [Vídeo de apresentação final](#video-etapa-03)
+- [PPTX](etapa-03/projeto-integrado-final-aisoftware-tracker.pptx), :memo: [DOC](etapa-03/projeto-integrado-aisoftware-tracker.docx), :page_facing_up: [PDF](etapa-03/projeto-integrado-aisoftware-tracker.pdf)
 
 <span id="análise-abordagens-arquiteturais"></span>
 
